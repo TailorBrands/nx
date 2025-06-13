@@ -38,7 +38,7 @@
     "jwt-decode": "^3.1.2",
     "libphonenumber-js": "^1.10.39",
     "lodash": "^4.17.21",
-    "next": "14.2.3",
+    "next": "14.2.30",
     "next-redux-wrapper": "^8.1.0",
     "normalize.css": "^8.0.1",
     "object-hash": "^2.2.0",
